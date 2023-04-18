@@ -1,5 +1,20 @@
 <h2>File Hash</h2>
 
+### v0.23
+
+<details>
+  <summary>Click to expand the file hash table</summary>
+Windows:
+
+| File Name | SHA1 | CRC32 |
+| --- | --- | --- |
+
+Mac:
+
+| File Name | SHA1 | CRC32 |
+| --- | --- | --- |
+</details>
+
 ### v0.22
 
 <details>
