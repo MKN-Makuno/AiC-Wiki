@@ -15,7 +15,7 @@
 - [[한국어 (เกาหลี)]](wiki/ko/)
 - [[简体中文 (จีนตัวย่อ)]](wiki/zh-hans/)
 - [[繁體中文 (จีนตัวเต็ม)]](wiki/zh-hant/)
-- [[ไทย (Thai)]](wiki/th)
+- [[ไทย (Thai)]](wiki/th/)
 
 หากมีปัญหาหรือข้อเสนอแนะ สามารถติดต่อได้ที่:<br>
 https://github.com/AliceInCradle-Community/Wiki/issues
