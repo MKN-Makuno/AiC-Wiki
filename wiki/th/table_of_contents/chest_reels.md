@@ -1,194 +1,188 @@
-<h3>宝箱用リール</h3>
+<h3>Reel กล่อง</h3>
 
-<!-- This table made by Excel -->
-<!-- If you want to modify this table -->
-<!-- You can add rows and columns manually -->
 <!-- <tr> for rows and <td> for columns -->
-<!-- Or go to Repositories of This Wiki -->
-<!-- Then go into the folder wiki/en/table_of_contents/excels -->
-<!-- Modify data through Excel (don't forget to upload the Excel file to the excels folder) -->
 
 <table>
     <tr>
-        <td colspan="9" bgcolor="#ff6666" style="color:#ffffff" align="center">リール名</td>
+        <td colspan="9" bgcolor="#ccffcc" style="color:#000000" align="center">ชื่อ Reel</td>
     </tr>
     <tr>
-        <td>個数+</td>
-        <td>個数++</td>
-        <td>個数+++</td>
-        <td>個数X</td>
-        <td>グレード+</td>
-        <td>グレード++</td>
-        <td>グレード+++</td>
-        <td>お金+</td>
-        <td>福袋</td>
+        <td style="color:#FF7F50">ปริมาณ+</td>
+        <td style="color:#FF7F50">ปริมาณ++</td>
+        <td style="color:#FF7F50">ปริมาณ+++</td>
+        <td style="color:#FFD700">ปริมาณX</td>
+        <td style="color:#8A2BE2">เกรด+</td>
+        <td style="color:#8A2BE2">เกรด++</td>
+        <td style="color:#8A2BE2">เกรด+++</td>
+        <td style="color:#708090">เหรียญ+</td>
+        <td style="color:#EE82EE">ถุงลักกี้</td>
     </tr>
     <tr>
-        <td colspan="9" bgcolor="#ff6666" style="color:#ffffff" align="center">リール効果</td>
+        <td colspan="9" bgcolor="#ccffcc" style="color:#000000" align="center">เอฟเฟค Reel</td>
     </tr>
     <tr>
-        <td>+0</td>
-        <td>+1</td>
-        <td>+4</td>
-        <td>x1</td>
-        <td>+0</td>
-        <td>+1</td>
-        <td>+4</td>
-        <td>G+20</td>
-        <td>x2</td>
+        <td style="color:#FF7F50">+0</td>
+        <td style="color:#FF7F50">+1</td>
+        <td style="color:#FF7F50">+4</td>
+        <td style="color:#FFD700">x1</td>
+        <td style="color:#8A2BE2">+0</td>
+        <td style="color:#8A2BE2">+1</td>
+        <td style="color:#8A2BE2">+4</td>
+        <td style="color:#708090">G+20</td>
+        <td style="color:#EE82EE">x2</td>
     </tr>
     <tr>
-        <td>+2</td>
-        <td>+3</td>
-        <td>+5</td>
-        <td>x2</td>
-        <td>+1</td>
-        <td>+2</td>
-        <td>+1</td>
-        <td>G+20</td>
-        <td>+1</td>
+        <td style="color:#FF7F50">+2</td>
+        <td style="color:#FF7F50">+3</td>
+        <td style="color:#FF7F50">+5</td>
+        <td style="color:#FFD700">x2</td>
+        <td style="color:#8A2BE2">+1</td>
+        <td style="color:#8A2BE2">+2</td>
+        <td style="color:#8A2BE2">+1</td>
+        <td style="color:#708090">G+20</td>
+        <td style="color:#8A2BE2">+1</td>
     </tr>
     <tr>
-        <td>+1</td>
-        <td>+2</td>
-        <td>+2</td>
-        <td>x2</td>
-        <td>+1</td>
-        <td>+3</td>
-        <td>+3</td>
-        <td>G+30</td>
-        <td>+1</td>
+        <td style="color:#FF7F50">+1</td>
+        <td style="color:#FF7F50">+2</td>
+        <td style="color:#FF7F50">+2</td>
+        <td style="color:#FFD700">x2</td>
+        <td style="color:#8A2BE2">+1</td>
+        <td style="color:#8A2BE2">+3</td>
+        <td style="color:#8A2BE2">+3</td>
+        <td style="color:#708090">G+30</td>
+        <td style="color:#8A2BE2">+1</td>
     </tr>
     <tr>
-        <td>+1</td>
-        <td>+3</td>
-        <td>+4</td>
-        <td>x2</td>
-        <td>+2</td>
-        <td>+2</td>
-        <td>+2</td>
-        <td>G+20</td>
-        <td>+1</td>
+        <td style="color:#FF7F50">+1</td>
+        <td style="color:#FF7F50">+3</td>
+        <td style="color:#FF7F50">+4</td>
+        <td style="color:#FFD700">x2</td>
+        <td style="color:#8A2BE2">+2</td>
+        <td style="color:#8A2BE2">+2</td>
+        <td style="color:#8A2BE2">+2</td>
+        <td style="color:#708090">G+20</td>
+        <td style="color:#FF7F50">+1</td>
     </tr>
     <tr>
-        <td>+2</td>
-        <td>+2</td>
-        <td>+1</td>
-        <td>-</td>
-        <td>+1</td>
-        <td>+2</td>
-        <td>+3</td>
-        <td>G+20</td>
-        <td>G+100</td>
+        <td style="color:#FF7F50">+2</td>
+        <td style="color:#FF7F50">+2</td>
+        <td style="color:#FF7F50">+1</td>
+        <td style="color:#FFD700">-</td>
+        <td style="color:#8A2BE2">+1</td>
+        <td style="color:#8A2BE2">+2</td>
+        <td style="color:#8A2BE2">+3</td>
+        <td style="color:#708090">G+20</td>
+        <td style="color:#708090">G+100</td>
     </tr>
     <tr>
-        <td>+1</td>
-        <td>+1</td>
-        <td>+3</td>
-        <td>-</td>
-        <td>+1</td>
-        <td>+1</td>
-        <td>+3</td>
-        <td>G+30</td>
-        <td>+1</td>
+        <td style="color:#FF7F50">+1</td>
+        <td style="color:#FF7F50">+1</td>
+        <td style="color:#FF7F50">+3</td>
+        <td style="color:#FFD700">-</td>
+        <td style="color:#8A2BE2">+1</td>
+        <td style="color:#8A2BE2">+1</td>
+        <td style="color:#8A2BE2">+3</td>
+        <td style="color:#708090">G+30</td>
+        <td style="color:#8A2BE2">+1</td>
     </tr>
     <tr>
-        <td>+2</td>
-        <td>+2</td>
-        <td>+2</td>
-        <td>-</td>
-        <td>+0</td>
-        <td>+3</td>
-        <td>+2</td>
-        <td>G+10</td>
-        <td>+2</td>
+        <td style="color:#FF7F50">+2</td>
+        <td style="color:#FF7F50">+2</td>
+        <td style="color:#FF7F50">+2</td>
+        <td style="color:#FFD700">-</td>
+        <td style="color:#8A2BE2">+0</td>
+        <td style="color:#8A2BE2">+3</td>
+        <td style="color:#8A2BE2">+2</td>
+        <td style="color:#708090">G+10</td>
+        <td style="color:#8A2BE2">+2</td>
     </tr>
     <tr>
-        <td>+1</td>
-        <td>+3</td>
-        <td>+3</td>
-        <td>-</td>
-        <td>+2</td>
-        <td>+1</td>
-        <td>+4</td>
-        <td>G+30</td>
-        <td>+3</td>
+        <td style="color:#FF7F50">+1</td>
+        <td style="color:#FF7F50">+3</td>
+        <td style="color:#FF7F50">+3</td>
+        <td style="color:#FFD700">-</td>
+        <td style="color:#8A2BE2">+2</td>
+        <td style="color:#8A2BE2">+1</td>
+        <td style="color:#8A2BE2">+4</td>
+        <td style="color:#708090">G+30</td>
+        <td style="color:#FF7F50">+3</td>
     </tr>
     <tr>
-        <td>+1</td>
-        <td>+1</td>
-        <td>+5</td>
-        <td>-</td>
-        <td>+1</td>
-        <td>+2</td>
-        <td>+2</td>
-        <td>G+20</td>
-        <td>+1</td>
+        <td style="color:#FF7F50">+1</td>
+        <td style="color:#FF7F50">+1</td>
+        <td style="color:#FF7F50">+5</td>
+        <td style="color:#FFD700">-</td>
+        <td style="color:#8A2BE2">+1</td>
+        <td style="color:#8A2BE2">+2</td>
+        <td style="color:#8A2BE2">+2</td>
+        <td style="color:#708090">G+20</td>
+        <td style="color:#8A2BE2">+1</td>
     </tr>
     <tr>
-        <td>+1</td>
-        <td>+2</td>
-        <td>+2</td>
-        <td>-</td>
-        <td>+1</td>
-        <td>+2</td>
-        <td>+3</td>
-        <td>G+10</td>
-        <td>+1</td>
+        <td style="color:#FF7F50">+1</td>
+        <td style="color:#FF7F50">+2</td>
+        <td style="color:#FF7F50">+2</td>
+        <td style="color:#FFD700">-</td>
+        <td style="color:#8A2BE2">+1</td>
+        <td style="color:#8A2BE2">+2</td>
+        <td style="color:#8A2BE2">+3</td>
+        <td style="color:#708090">G+10</td>
+        <td style="color:#FF7F50">+2</td>
     </tr>
     <tr>
-        <td>-</td>
-        <td>+4</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-        <td>+2</td>
-        <td>+2</td>
-        <td>G+30</td>
-        <td>+3</td>
+        <td style="color:#FF7F50">-</td>
+        <td style="color:#FF7F50">+4</td>
+        <td style="color:#FF7F50">-</td>
+        <td style="color:#FFD700">-</td>
+        <td style="color:#8A2BE2">-</td>
+        <td style="color:#8A2BE2">+2</td>
+        <td style="color:#8A2BE2">+2</td>
+        <td style="color:#708090">G+30</td>
+        <td style="color:#8A2BE2">+3</td>
     </tr>
     <tr>
-        <td>-</td>
-        <td>+2</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-        <td>+3</td>
-        <td>-</td>
-        <td>G+10</td>
-        <td>+1</td>
+        <td style="color:#FF7F50">-</td>
+        <td style="color:#FF7F50">+2</td>
+        <td style="color:#FF7F50">-</td>
+        <td style="color:#FFD700">-</td>
+        <td style="color:#8A2BE2">-</td>
+        <td style="color:#8A2BE2">+3</td>
+        <td style="color:#8A2BE2">-</td>
+        <td style="color:#708090">G+10</td>
+        <td style="color:#FF7F50">+1</td>
     </tr>
     <tr>
-        <td>-</td>
-        <td>+1</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-        <td>+1</td>
-        <td>-</td>
-        <td>G+30</td>
-        <td>+1</td>
+        <td style="color:#FF7F50">-</td>
+        <td style="color:#FF7F50">+1</td>
+        <td style="color:#FF7F50">-</td>
+        <td style="color:#FFD700">-</td>
+        <td style="color:#8A2BE2">-</td>
+        <td style="color:#8A2BE2">+1</td>
+        <td style="color:#8A2BE2">-</td>
+        <td style="color:#708090">G+30</td>
+        <td style="color:#8A2BE2">+1</td>
     </tr>
     <tr>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-        <td>+2</td>
-        <td>-</td>
-        <td>-</td>
-        <td>+1</td>
+        <td style="color:#FF7F50">-</td>
+        <td style="color:#FF7F50">-</td>
+        <td style="color:#FF7F50">-</td>
+        <td style="color:#FFD700">-</td>
+        <td style="color:#8A2BE2">-</td>
+        <td style="color:#8A2BE2">+2</td>
+        <td style="color:#8A2BE2">-</td>
+        <td style="color:#708090">-</td>
+        <td style="color:#FF7F50">+1</td>
     </tr>
     <tr>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-        <td>+2</td>
-        <td>-</td>
-        <td>-</td>
-        <td>+2</td>
+        <td style="color:#FF7F50">-</td>
+        <td style="color:#FF7F50">-</td>
+        <td style="color:#FF7F50">-</td>
+        <td style="color:#FFD700">-</td>
+        <td style="color:#8A2BE2">-</td>
+        <td style="color:#8A2BE2">+2</td>
+        <td style="color:#8A2BE2">-</td>
+        <td style="color:#708090">-</td>
+        <td style="color:#8A2BE2">+2</td>
     </tr>
 </table>
