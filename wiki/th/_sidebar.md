@@ -2,7 +2,7 @@
   - [ปุ่มควบคุม](wiki/th/table_of_contents/control_list)
   - [สกิลเวท](wiki/th/table_of_contents/spell)
   - [ทักษะ](wiki/th/table_of_contents/skill)
-  - [เอ็นชานเซอร์](wiki/th/table_of_contents/enhancer)
+  - [เอนแฮนเซอร์](wiki/th/table_of_contents/enhancer)
   - [Reel กล่อง](wiki/th/table_of_contents/chest_reels)
 - ไอเทม
   - [ไอเทมทั้งหมด](wiki/th/item/items)
