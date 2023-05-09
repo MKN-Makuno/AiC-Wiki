@@ -284,7 +284,7 @@
 		<td style="">20</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_22">		<td style="">Green Pepper </td>
 		<td style="">Vegetable </td>
-		<td style="">Easier to escape when restrained</td>
+		<td style="">Resist smoke</td>
 		<td style="">-21%</td>
 		<td style="">-32％</td>
 		<td style="">-41%</td>
@@ -298,7 +298,7 @@
 		<td style="">20</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_23">		<td style="">Bell Pepper </td>
 		<td style="">Vegetable </td>
-		<td style="">Resist smoke</td>
+		<td style="">Easier to escape when restrained</td>
 		<td style="">+23%</td>
 		<td style="">+35％</td>
 		<td style="">+46%</td>
