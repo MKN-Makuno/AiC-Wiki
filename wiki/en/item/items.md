@@ -284,7 +284,7 @@
 		<td style="">20</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_22">		<td style="">Green Pepper </td>
 		<td style="">Vegetable </td>
-		<td style="">Resist smoke</td>
+		<td style="">smoke damage</td>
 		<td style="">-21%</td>
 		<td style="">-32％</td>
 		<td style="">-41%</td>
