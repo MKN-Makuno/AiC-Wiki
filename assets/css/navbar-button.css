@@ -1,0 +1,25 @@
+.navbar-language-button {
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    color: #cecece;
+}
+
+.navbar-language-button-sub {
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+}
+
+.navbar-contribution-button {
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    color: #cecece;
+}
