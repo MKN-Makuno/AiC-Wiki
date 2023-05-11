@@ -1,12 +1,10 @@
-//Language Auto Switch
-//Dont put it in index.html
+<-- Language Auto Switch -->
+<-- Dont put it in index.html -->
 <script> 
   !function () {
     var lang = navigator.language||navigator.userLanguage;
     lang = lang.substr(0, 2);
-    if(lang == 'zh-CN'){
-      window.location.replace('https://wiki.aliceincradle.org/#/README_zh-hant')
-    }else if(lang == 'zh-CHT'){
+    }else if(lang == 'zh'){
       window.location.replace('https://wiki.aliceincradle.org/#/README_zh-hant')
     }else if(lang == 'ja'){
       window.location.replace('https://wiki.aliceincradle.org/#/README_ja')
