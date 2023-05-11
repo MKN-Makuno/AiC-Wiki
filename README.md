@@ -1,3 +1,21 @@
+//Language Auto Switch
+//Dont put it in index.html
+<script> 
+  !function () {
+    var lang = navigator.language||navigator.userLanguage;
+    lang = lang.substr(0, 2);
+    if(lang == 'zh-CN'){
+      window.location.replace('https://wiki.aliceincradle.org/#/README_zh-hant')
+    }else if(lang == 'zh-CHT'){
+      window.location.replace('https://wiki.aliceincradle.org/#/README_zh-hant')
+    }else if(lang == 'ja'){
+      window.location.replace('https://wiki.aliceincradle.org/#/README_ja')
+    }else if(lang == 'ko'){
+      window.location.replace('https://wiki.aliceincradle.org/#/README_ko')
+    }
+  }()
+</script>
+
 ### About Wiki
 
 View this page as<br>
